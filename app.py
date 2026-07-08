@@ -36,7 +36,7 @@ def home():
 
         <div class="card">
 
-            <h1>🚀 Python Application Hosted on Amazon EC2</h1>
+            <h1>🚀 Python Application Hosted on Amazon EC2 from Symbiosis College</h1>
 
             <p><b>Deployment Status:</b> Successful</p>
 
